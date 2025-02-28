@@ -1,0 +1,6 @@
+@SessionStorageExample_HostAddress = http://localhost:5035
+
+GET {{SessionStorageExample_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
